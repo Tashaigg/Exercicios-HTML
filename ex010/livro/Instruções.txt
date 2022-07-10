@@ -1,0 +1,13 @@
+Programa para salvar em planilha valores de vários arquivos em formato pdf.
+
+Como usar:
+	Coloque todos os arquivos PDF na mesma pasta que o programa e execute o programa.
+
+O programa procura todos os PDFs na mesma pasta que o programa.
+Salva na primeira coluna do Excel: Nome do Arquivo
+Segunda coluna: Primeira parte do nome do Arquivo
+	exemplo: "DMAE - 20-01-2022.pdf" ->> DMAE 
+Terceira coluna: O valor do boleto (DMAE)
+Quarta coluna: O vencimento original do boleto (DMAE)
+
+Funciona somente com boletos DMAE
